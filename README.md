@@ -23,3 +23,5 @@ Projet réalisé en binôme : **NOM1 Prénom1** et **NOM2 Prénom2** (Licence 1 
 2. Ouvrir le fichier `main.py`
 3. Cliquer sur le bouton **Run Python File** (▷) en haut à droite
 4. Utiliser le menu dans le terminal
+
+az
